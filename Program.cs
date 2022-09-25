@@ -1,4 +1,6 @@
-﻿decimal gastosMensais, ValorAInvestir;
+﻿Console.Clear();
+
+decimal gastosMensais, ValorAInvestir;
 double valoraserdividido;
 
 Console.WriteLine("--- Vivendo de dividendos ---\n");
